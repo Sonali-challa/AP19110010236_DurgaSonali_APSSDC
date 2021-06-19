@@ -1,0 +1,12 @@
+File handling updated line
+* build in functions
+    * open()
+    * close()
+* w -- write()---write into the file
+* r -- read file already created
+    * read()--reading all line from file
+    * readline()--reading a single at a time
+    * readlines()--reading line by line
+* a -- appends the data ==  write()
+This is the new Updated word data 
+This is the new Updated word data 
